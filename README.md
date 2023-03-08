@@ -3,6 +3,7 @@
 	<h3> Backend Django web разработчик </h3>
 </div>
 
+
 <div id="social" align="center">
 <a href="[linkedin-url](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B8%D0%BB%D0%B0-%D0%B0%D1%81%D1%8B%D0%BA-923386269/)">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,9 +14,13 @@
 	</a>
 </div>
 
+***
+
 ### Обо мне
 * на данный момент изучаю web разработку на Django 
 * 
+
+***
 
 ### Технологии, которыми я пользуюсь:
 <div id="languages" >
@@ -28,6 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 </div>
  
+***
            
 ### Моя статистика:
 <div id="stat" align="center">

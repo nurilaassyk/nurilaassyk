@@ -27,5 +27,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp;
 </div>
-            
-          
+ 
+           
+### Моя статистика:
+<div id="stat" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurilaassyk&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurilaassyk&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurilaassyk&theme=github_dark"/>
+
+
+</div>
+	
+	
+	
+	
+	
+	

@@ -5,19 +5,14 @@
 
 
 <div id="social" align="center">
-<a href="[linkedin-url](https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B8%D0%BB%D0%B0-%D0%B0%D1%81%D1%8B%D0%BA-923386269/)">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<div id="social" align="center">
 <a href="https://www.linkedin.com/in/%D0%BD%D1%83%D1%80%D0%B8%D0%BB%D0%B0-%D0%B0%D1%81%D1%8B%D0%BA-923386269/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 
-<a href="[telegram-url](https://t.me/assyk_n)">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
+<a href="https://t.me/assyk_n">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 </div>
 
 ***
@@ -46,7 +41,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurilaassyk&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nurilaassyk&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nurilaassyk&theme=github_dark"/>
-
 
 </div>
 	

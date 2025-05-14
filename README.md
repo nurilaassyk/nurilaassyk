@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h1>Нурила Асык</h1>
+	<h1>Нурила Милосердова</h1>
 	<h3> Backend Django web разработчик </h3>
 </div>
 
